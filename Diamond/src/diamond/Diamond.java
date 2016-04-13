@@ -7,7 +7,7 @@ public class Diamond {
     }
     /**
      * print a diamond pattern in screen
-     * 
+     * pretty dividing line
      */
     public void diamond_Print() {
         int i; // rows
