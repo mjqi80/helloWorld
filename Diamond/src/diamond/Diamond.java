@@ -5,7 +5,10 @@ public class Diamond {
     public static void main(String[] args) {
         new Diamond().diamond_Print();
     }
-    
+    /**
+     * print a diamond pattern in screen
+     * 
+     */
     public void diamond_Print() {
         int i; // rows
         int j; // cols        
