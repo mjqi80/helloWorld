@@ -5,14 +5,11 @@ public class Diamond {
     public static void main(String[] args) {
         new Diamond().diamond_Print();
     }
-    /**
-     * print a diamond pattern in screen
-     * pretty dividing line1234578
-     */
+    
     public void diamond_Print() {
         int i; // rows
         int j; // cols        
-
+        //this is a comment
 	for (j=1; j<=5; j++)
 	{
             for (i=1; i<=8-j; i++)
